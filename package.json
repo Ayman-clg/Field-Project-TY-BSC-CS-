@@ -1,0 +1,22 @@
+{
+  "name": "enterprise-inventory-system",
+  "version": "1.0.0",
+  "description": "Enterprise Multi-Location Inventory & Supply Chain Management System",
+  "scripts": {
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "start:backend": "cd backend && npm start",
+    "build:frontend": "cd frontend && npm run build"
+  },
+  "keywords": [
+    "inventory",
+    "supply-chain",
+    "enterprise",
+    "mongoose-transactions",
+    "pdfkit",
+    "react",
+    "tailwindcss"
+  ],
+  "author": "",
+  "license": "ISC"
+}
